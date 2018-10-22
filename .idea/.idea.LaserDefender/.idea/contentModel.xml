@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Właściciel\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Właściciel\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_LaserDefender.-1796653197.00" t="ExcludeRecursive" />
+    <e p="D:\Unity\Udemy\LaserDefender" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets\Scripts" t="Include">
+        <e p="EnemyBehaviour.cs" t="Include" />
+        <e p="FormationController.cs" t="Include" />
+        <e p="HealthKeeper.cs" t="Include" />
+        <e p="LevelManager.cs" t="Include" />
+        <e p="MusicPlayer.cs" t="Include" />
+        <e p="Pills.cs" t="Include" />
+        <e p="PlayerController.cs" t="Include" />
+        <e p="Position.cs" t="Include" />
+        <e p="PowerUps.cs" t="Include" />
+        <e p="Projectile.cs" t="Include" />
+        <e p="ScoreDisplay.cs" t="Include" />
+        <e p="ScoreKeeper.cs" t="Include" />
+        <e p="Shield.cs" t="Include" />
+        <e p="ShieldKeeper.cs" t="Include" />
+        <e p="Shredder.cs" t="Include" />
+      </e>
+      <e p="LaserDefender.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
